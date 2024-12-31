@@ -11,7 +11,7 @@ import { isMobileDevice } from '@/utils/server/responsive';
 import PageTitle from '../features/PageTitle';
 import Changelog from './features/ChangelogModal';
 import TelemetryNotification from './features/TelemetryNotification';
-
+<div><img src="https://gz-1252349125.cos.ap-guangzhou.myqcloud.com/zz2.jpg" width="400" height="200" alt=""></div>
 export const generateMetadata = async () => {
   const { t } = await translation('metadata');
   return metadataModule.generate({
