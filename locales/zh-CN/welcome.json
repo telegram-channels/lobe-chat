@@ -41,5 +41,7 @@
     "desc1": "开启大脑集群，激发思维火花。你的智能助理，一直都在。",
     "desc2": "创建你的第一个助手，让我们开始吧~",
     "title": "给自己一个更聪明的大脑"
+     "image1": "require("https://9999911.xyz/logo.jpg")", // 动态加载第一张图片
+ image2: "https://file.uhsea.com/2409/0d4552c1da91cc88a33137950183953cH3.jpg", 
   }
 }
